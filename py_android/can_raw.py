@@ -39,5 +39,5 @@ while True:
 		break
 
 	except 	Exception as ex:
-		print("[!] Oh shoot -> {}".format(ex))
+		print("[!] No CAN message recived -> {}".format(ex))
 		pass

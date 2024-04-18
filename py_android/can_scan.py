@@ -37,4 +37,4 @@ while True:
 		sleep(0.05)
 	except 	Exception as ex:
 		print(ex)
-		print("[!] Oh shoot")
+		print("[!] No CAN message recived")

@@ -43,5 +43,5 @@ while True:
 		decode_frame(frame)
 		sleep(0.05)
 	except 	Exception as ex:
-		print("[!] Oh shoot")
+		print("[!] No CAN message recived")
 		pass

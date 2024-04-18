@@ -1,8 +1,8 @@
-# REEV CAN WiFi Gateway
+# CANey - CAN WiFi Gateway
 
 ## Overview
 
-This project explores the world of Controller Area Network (CAN) specifically intended for REEV student competition, using an ESP8266 NodeMCU controller and an MCP2515 CAN Controller module. The CAN bus is common network on which REEV architecture is built, and understanding how to interface with it is essential for various applications, from diagnostics to customizations.
+This project explores the world of Controller Area Network (CAN) specifically intended for sending and receiving CAN frames through WiFI as HTTP, using an ESP8266 NodeMCU controller and an MCP2515 CAN Controller module. The CAN bus is a common network on which Cars are built, and understanding how to interface with it is essential for various applications, from diagnostics to customizations.
 
 This project provides an introduction to the hardware and software required for CAN WiFi Gateway, along with sample code and scripts for communication with the CAN bus.
 
@@ -14,7 +14,7 @@ The ESP8266 NodeMCU is a versatile microcontroller with built-in Wi-Fi capabilit
 
 ### 2. MCP2515 CAN Controller Module
 
-The MCP2515 is a widely-used CAN Controller module. It allows the ESP8266 NodeMCU to communicate with the CAN bus, enabling you to send and receive messages.
+The MCP2515 is a widely used CAN Controller module. It allows the ESP8266 NodeMCU to communicate with the CAN bus, enabling you to send and receive messages.
 
 ## Software Components
 

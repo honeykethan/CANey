@@ -43,6 +43,6 @@ Python scripts are available for both Linux PCs and mobile devices. These script
 
 ## License
 
-This project is open-source and released under the [GNU GPL 3.0](LICENSE). You are welcome to modify, contribute, or use it for educational and non-malicious purposes.
+This project is open-source and released under the (LICENSE). You are welcome to modify, contribute, or use it for educational and non-malicious purposes.
 
 **Note**: Connecting to someone elses CAN bus systems and sending/reciving messages without proper authorization may be illegal and unethical.

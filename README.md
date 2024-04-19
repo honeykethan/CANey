@@ -39,10 +39,4 @@ The provided Arduino code allows you to initialize and configure the CAN Control
 ## Python Scripts
 
 Python scripts are available for both Linux PCs and mobile devices. These scripts establish a connection with the ESP8266 NodeMCU and enable you to send and receive CAN messages. They are designed to be user-friendly and accessible.
-
-
-## License
-
-This project is open-source and released under the (LICENSE). You are welcome to modify, contribute, or use it for educational and non-malicious purposes.
-
 **Note**: Connecting to someone elses CAN bus systems and sending/reciving messages without proper authorization may be illegal and unethical.
